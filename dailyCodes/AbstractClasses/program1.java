@@ -6,7 +6,7 @@ abstract class Parent{
 }
 class Child extends Parent{
 	void marry(){
-	System.out.println("Anagha");
+	System.out.println("Deepika");
 	}
 	public static void  main(String [] args){
 		Parent obj = new Child();
